@@ -9,7 +9,7 @@ public class ColocarEmOrdemCrescente {
 		
 		// Preenche o Array a partir da 1°posição
 		for (int i = 0; i < listaDeNumeros.length; i++) {
-			System.out.print("Digite " + i+1 + "° numero: ");
+			System.out.print("Digite " + (i+1) + "° numero: ");
 			listaDeNumeros[i] = ler.nextInt();
 			//ler.nextLine();
 		}
