@@ -15,7 +15,7 @@ public class ParOuImparEx4 {
 			 System.out.println("A raiz quadrada desse mesmo número é " + Math.sqrt(numeroUser));
 		 }else {
 			 System.out.println("O número digitado é impar!");
-			 System.out.printf("O valor do número elevado ao quadrado é %d" ,(numeroUser*numeroUser));
+			 System.out.println("O valor do número elevado ao quadrado é " + Math.pow(numeroUser, 2));
 		 }
 		teclado.close();
 	}
