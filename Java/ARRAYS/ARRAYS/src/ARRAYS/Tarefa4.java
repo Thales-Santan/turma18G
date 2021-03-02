@@ -30,6 +30,7 @@ public class Tarefa4 {
 		}
 		System.out.printf("A soma dos números da Matriz é: %d.%n",soma);
 		System.out.printf("A soma da diagonal principal é: %d.",(matriz[0][0] + matriz[1][1] + matriz[2][2]));
+		input.close();
 	}
 
 }
