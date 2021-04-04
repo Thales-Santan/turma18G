@@ -205,7 +205,7 @@
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <children xsi:type="basic:Part" xmi:id="_qzidcHtLEeug1Lkohn_tQg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CalculoAreaTrianguloComFormulaAleatoria.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CalculoAreaTrianguloComFormulaAleatoria.java&quot; partName=&quot;CalculoAreaTrianguloComFormulaAleatoria.java&quot; title=&quot;CalculoAreaTrianguloComFormulaAleatoria.java&quot; tooltip=&quot;CompiladoExerciciosEmJava/src/CalculoAreaTrianguloComFormulaAleatoria.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CompiladoExerciciosEmJava/src/CalculoAreaTrianguloComFormulaAleatoria.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1454&quot; selectionTopPixel=&quot;279&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CalculoAreaTrianguloComFormulaAleatoria.java&quot; partName=&quot;CalculoAreaTrianguloComFormulaAleatoria.java&quot; title=&quot;CalculoAreaTrianguloComFormulaAleatoria.java&quot; tooltip=&quot;CompiladoExerciciosEmJava/src/CalculoAreaTrianguloComFormulaAleatoria.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CompiladoExerciciosEmJava/src/CalculoAreaTrianguloComFormulaAleatoria.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1454&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -347,7 +347,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kZNf4nbNEeua8_5uOKwCOw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_dSU7MHtLEeug1Lkohn_tQg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_kIRg5HbNEeua8_5uOKwCOw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PlxlgH0VEeuZh9PEtVE-SQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_kIRg5HbNEeua8_5uOKwCOw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kZNf43bNEeua8_5uOKwCOw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -378,7 +378,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kZNf6nbNEeua8_5uOKwCOw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_dSX-gHtLEeug1Lkohn_tQg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_kIHxcnbNEeua8_5uOKwCOw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Pl1P4H0VEeuZh9PEtVE-SQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_kIHxcnbNEeua8_5uOKwCOw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kZNf63bNEeua8_5uOKwCOw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2165,7 +2165,7 @@
   <addons xmi:id="_kHrrF3bNEeua8_5uOKwCOw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_kHrrGHbNEeua8_5uOKwCOw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_kH008HbNEeua8_5uOKwCOw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_O_lIMX0VEeuZh9PEtVE-SQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_kIHv4HbNEeua8_5uOKwCOw" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_kIHv4XbNEeua8_5uOKwCOw" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
